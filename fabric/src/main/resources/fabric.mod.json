@@ -5,7 +5,13 @@
     "name": "${mod_name}",
     "description": "${description}",
     "authors": [
-        "${mod_author}"
+        {
+            "name": "${mod_author}",
+            "contact": {
+                "email": "squiddew1@gmail.com",
+                "homepage": "https://modrinth.com/user/SquidDew1"
+            }
+        }
     ],
     "contact": {
         "homepage": "https://modrinth.com/project/consoly",
