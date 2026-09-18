@@ -1,0 +1,32 @@
+{
+    "schemaVersion": 1,
+    "id": "${mod_id}",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/project/consoly",
+        "sources": "https://github.com/SquidDew1/Consoly",
+        "issues": "https://github.com/SquidDew1/Consoly/issues"
+    },
+    "license": "${license}",
+    "icon": "assets/consoly/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "me.squiddew.consoly.fabric.ConsolyFabricMod"
+        ]
+    },
+    "mixins": [
+        "${mod_id}.mixins.json",
+        "${mod_id}.fabric.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${fabric_loader_version}",
+        "minecraft": "~${minecraft_version}"
+    }
+}
+  

@@ -1,0 +1,45 @@
+plugins {
+    id 'net.fabricmc.fabric-loom' version '1.18.1' apply false
+    id 'net.neoforged.moddev' version '2.0.147' apply false
+}
+
+subprojects {
+
+    plugins.withId('java') {
+        java {
+            withSourcesJar()
+            withJavadocJar()
+        }
+    }
+
+    tasks.matching { it.name == "processResources" }.configureEach {
+        var expandProps = [
+                'version'                      : version,
+                'group'                        : project.group,
+                'minecraft_version'            : minecraft_version,
+                'minecraft_version_range'      : minecraft_version_range,
+                'fabric_loader_version'        : fabric_loader_version,
+                'mod_name'                     : mod_name,
+                'mod_author'                   : mod_author,
+                'mod_id'                       : mod_id,
+                'license'                      : license,
+                'description'                  : project.description,
+                'neoforge_version'             : neoforge_version,
+                'neoforge_loader_version_range': neoforge_loader_version_range
+        ]
+
+        var jsonExpandProps = expandProps.collectEntries {
+            key, value -> [(key): value instanceof String ? value.replace('\n', '\\\\n') : value]
+        }
+
+        filesMatching(['META-INF/neoforge.mods.toml']) {
+            expand expandProps
+        }
+
+        filesMatching(['fabric.mod.json', '*.mixins.json']) {
+            expand jsonExpandProps
+        }
+
+        inputs.properties(expandProps)
+    }
+}
