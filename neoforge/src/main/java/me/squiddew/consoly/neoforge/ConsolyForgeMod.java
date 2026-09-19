@@ -8,6 +8,6 @@ public class ConsolyForgeMod {
 
     public ConsolyForgeMod() {
 
-        ConsolyMod.init();
+        ConsolyMod.onInitializeCommon();
     }
 }

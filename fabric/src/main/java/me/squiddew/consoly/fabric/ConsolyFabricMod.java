@@ -8,6 +8,6 @@ public class ConsolyFabricMod implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 
-        ConsolyMod.init();
+        ConsolyMod.onInitializeCommon();
     }
 }
