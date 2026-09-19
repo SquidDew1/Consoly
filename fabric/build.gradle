@@ -2,11 +2,6 @@ plugins {
     id 'multiloader-loader'
     id 'net.fabricmc.fabric-loom'
 }
-dependencies {
-    minecraft("com.mojang:minecraft:${minecraft_version}")
-    implementation("net.fabricmc:fabric-loader:${fabric_loader_version}")
-    implementation("com.terraformersmc:modmenu:21.0.0-beta.1")
-}
 
 repositories {
     mavenCentral()
@@ -19,6 +14,12 @@ repositories {
             includeGroup("dev.emi")
         }
     }
+}
+
+dependencies {
+    minecraft("com.mojang:minecraft:${minecraft_version}")
+    implementation("net.fabricmc:fabric-loader:${fabric_loader_version}")
+    implementation("com.terraformersmc:modmenu:21.0.0-beta.1")
 }
 
 def loaderAttribute = Attribute.of('io.github.mcgradleconventions.loader', String)
