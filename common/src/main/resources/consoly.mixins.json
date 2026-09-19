@@ -8,6 +8,9 @@
   },
   "overwrites": {
     "requireAnnotations": true
-  }
+  },
+  "client": [
+    "MinecraftMixin"
+  ]
 }
 
