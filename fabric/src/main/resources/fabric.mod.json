@@ -24,6 +24,9 @@
     "entrypoints": {
         "client": [
             "me.squiddew.consoly.fabric.ConsolyFabricMod"
+        ],
+        "modmenu": [
+            "me.squiddew.consoly.fabric.ModMenuIntegration"
         ]
     },
     "mixins": [
