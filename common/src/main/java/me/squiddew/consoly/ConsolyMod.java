@@ -5,6 +5,7 @@ public class ConsolyMod {
     public static final String MOD_ID = "consoly";
 
     public static void onInitializeCommon() {
+        ConsoleReader.read();
         Window.create(
                 "Consoly",
                 800,
