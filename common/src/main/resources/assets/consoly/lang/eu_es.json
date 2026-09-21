@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Eginda",
-    "gui.consoly.screen.text.title": "Ezarpenak"
+    "gui.consoly.screen.text.title": "Ezarpenak",
+    "gui.consoly.screen.button.general": "Orokorra",
+    "gui.consoly.screen.button.tooltip.general": "Ezarpen orokorrak",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "argia",
+    "gui.consoly.screen.button.theme.dark": "iluna",
+    "gui.consoly.screen.button.tooltip.theme": "Aukeratu kontsolaren gaia"
 }

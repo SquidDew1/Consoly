@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Hoàn tất",
-    "gui.consoly.screen.text.title": "Thiết lập chung"
+    "gui.consoly.screen.text.title": "Thiết lập chung",
+    "gui.consoly.screen.button.general": "Chung",
+    "gui.consoly.screen.button.tooltip.general": "Thiết lập chung",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "ánh sáng",
+    "gui.consoly.screen.button.theme.dark": "Tối",
+    "gui.consoly.screen.button.tooltip.theme": "Chọn sắc thái bàn giao tiếp"
 }

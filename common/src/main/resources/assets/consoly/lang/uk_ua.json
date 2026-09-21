@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Сонце",
-    "gui.consoly.screen.text.title": "Налаштування консолі"
+    "gui.consoly.screen.text.title": "Налаштування консолі",
+    "gui.consoly.screen.button.general": "Головна",
+    "gui.consoly.screen.button.tooltip.general": "Загальні налаштування",
+    "gui.consoly.screen.button.theme": "Тема: %s]",
+    "gui.consoly.screen.button.theme.light": "світло",
+    "gui.consoly.screen.button.theme.dark": "темний",
+    "gui.consoly.screen.button.tooltip.theme": "Виберіть тему консолі"
 }

@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Opravljeno",
-    "gui.consoly.screen.text.title": "Konsolidacijske nastavitve"
+    "gui.consoly.screen.text.title": "Konsolidacijske nastavitve",
+    "gui.consoly.screen.button.general": "Splošno",
+    "gui.consoly.screen.button.tooltip.general": "Splošne nastavitve",
+    "gui.consoly.screen.button.theme": "Tema: %s",
+    "gui.consoly.screen.button.theme.light": "svetlo",
+    "gui.consoly.screen.button.theme.dark": "temna",
+    "gui.consoly.screen.button.tooltip.theme": "Izberite temo konzole"
 }

@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Tapos",
-    "gui.consoly.screen.text.title": "Kombinyenteng mga Kalagayan"
+    "gui.consoly.screen.text.title": "Kombinyenteng mga Kalagayan",
+    "gui.consoly.screen.button.general": "Heneral",
+    "gui.consoly.screen.button.tooltip.general": "Pangkalahatang mga Kalagayan",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "liwanag",
+    "gui.consoly.screen.button.theme.dark": "dilim",
+    "gui.consoly.screen.button.tooltip.theme": "Piliin ang tema ng iyong pag - aliw"
 }

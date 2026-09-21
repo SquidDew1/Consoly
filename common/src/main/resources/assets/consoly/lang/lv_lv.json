@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Pabeigts",
-    "gui.consoly.screen.text.title": "Konsoliju iestatījumi"
+    "gui.consoly.screen.text.title": "Konsoliju iestatījumi",
+    "gui.consoly.screen.button.general": "Vispārīga informācija",
+    "gui.consoly.screen.button.tooltip.general": "Pamata iestatījumi",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "viegls",
+    "gui.consoly.screen.button.theme.dark": "tumši",
+    "gui.consoly.screen.button.tooltip.theme": "Izvēlieties jūsu konsoles tēmu"
 }

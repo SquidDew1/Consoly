@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Feito",
-    "gui.consoly.screen.text.title": "Configuração da consola"
+    "gui.consoly.screen.text.title": "Configuração da consola",
+    "gui.consoly.screen.button.general": "Geral",
+    "gui.consoly.screen.button.tooltip.general": "Configurações gerais",
+    "gui.consoly.screen.button.theme": "Tema: %s",
+    "gui.consoly.screen.button.theme.light": "luz",
+    "gui.consoly.screen.button.theme.dark": "escuro",
+    "gui.consoly.screen.button.tooltip.theme": "Escolha o tema do seu console"
 }

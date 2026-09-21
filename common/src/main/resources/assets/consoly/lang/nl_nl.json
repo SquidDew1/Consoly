@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Klaar",
-    "gui.consoly.screen.text.title": "Console instellingen"
+    "gui.consoly.screen.text.title": "Console instellingen",
+    "gui.consoly.screen.button.general": "Algemeen",
+    "gui.consoly.screen.button.tooltip.general": "Algemene instellingen",
+    "gui.consoly.screen.button.theme": "Thema: %s",
+    "gui.consoly.screen.button.theme.light": "licht",
+    "gui.consoly.screen.button.theme.dark": "donker",
+    "gui.consoly.screen.button.tooltip.theme": "Kies het thema van uw console"
 }

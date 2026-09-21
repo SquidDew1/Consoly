@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "ログイン",
-    "gui.consoly.screen.text.title": "一貫した設定"
+    "gui.consoly.screen.text.title": "一貫した設定",
+    "gui.consoly.screen.button.general": "インフォメーション",
+    "gui.consoly.screen.button.tooltip.general": "一般的な設定",
+    "gui.consoly.screen.button.theme": "テーマ: %s",
+    "gui.consoly.screen.button.theme.light": "ライトライト",
+    "gui.consoly.screen.button.theme.dark": "ダーク",
+    "gui.consoly.screen.button.tooltip.theme": "コンソールのテーマを選択してください"
 }

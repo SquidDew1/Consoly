@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "दान",
-    "gui.consoly.screen.text.title": "कंसोल सेटिंग्स"
+    "gui.consoly.screen.text.title": "कंसोल सेटिंग्स",
+    "gui.consoly.screen.button.general": "जनरल",
+    "gui.consoly.screen.button.tooltip.general": "सामान्य सेटिंग्स",
+    "gui.consoly.screen.button.theme": "विषय: %s",
+    "gui.consoly.screen.button.theme.light": "प्रकाश",
+    "gui.consoly.screen.button.theme.dark": "गहरा",
+    "gui.consoly.screen.button.tooltip.theme": "अपने कंसोल की थीम चुनें"
 }

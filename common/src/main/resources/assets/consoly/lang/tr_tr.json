@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Done",
-    "gui.consoly.screen.text.title": "Consoly ayarları"
+    "gui.consoly.screen.text.title": "Consoly ayarları",
+    "gui.consoly.screen.button.general": "General General General General General General General General General General General General",
+    "gui.consoly.screen.button.tooltip.general": "Genel ayarlar",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "ışık ışığı",
+    "gui.consoly.screen.button.theme.dark": "karanlık karanlık karanlık",
+    "gui.consoly.screen.button.tooltip.theme": "Konsolunuzun temasını seçin"
 }

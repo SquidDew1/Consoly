@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Done",
-    "gui.consoly.screen.text.title": "Konsolina inställningar"
+    "gui.consoly.screen.text.title": "Konsolina inställningar",
+    "gui.consoly.screen.button.general": "General general",
+    "gui.consoly.screen.button.tooltip.general": "Allmänna inställningar",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "ljust ljus",
+    "gui.consoly.screen.button.theme.dark": "mörkt mörkt mörkt",
+    "gui.consoly.screen.button.tooltip.theme": "Välj temat för din konsol"
 }

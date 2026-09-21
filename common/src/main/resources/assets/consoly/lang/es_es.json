@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Hecho",
-    "gui.consoly.screen.text.title": "Ajustes simultáneos"
+    "gui.consoly.screen.text.title": "Ajustes simultáneos",
+    "gui.consoly.screen.button.general": "General",
+    "gui.consoly.screen.button.tooltip.general": "Ajustes generales",
+    "gui.consoly.screen.button.theme": "Tema: %s",
+    "gui.consoly.screen.button.theme.light": "luz",
+    "gui.consoly.screen.button.theme.dark": "oscuro.",
+    "gui.consoly.screen.button.tooltip.theme": "Elija el tema de su consola"
 }

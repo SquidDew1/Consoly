@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Valmis",
-    "gui.consoly.screen.text.title": "Konsolidointiasetukset"
+    "gui.consoly.screen.text.title": "Konsolidointiasetukset",
+    "gui.consoly.screen.button.general": "Yleistä",
+    "gui.consoly.screen.button.tooltip.general": "Yleiset asetukset",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "kevyt",
+    "gui.consoly.screen.button.theme.dark": "tumma",
+    "gui.consoly.screen.button.tooltip.theme": "Valitse konsolin teema"
 }

@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "写好了",
-    "gui.consoly.screen.text.title": "组合设置"
+    "gui.consoly.screen.text.title": "组合设置",
+    "gui.consoly.screen.button.general": "常规",
+    "gui.consoly.screen.button.tooltip.general": "常规设置",
+    "gui.consoly.screen.button.theme": "主题:%s",
+    "gui.consoly.screen.button.theme.light": "光线",
+    "gui.consoly.screen.button.theme.dark": "阴暗",
+    "gui.consoly.screen.button.tooltip.theme": "选择控制台的主题"
 }

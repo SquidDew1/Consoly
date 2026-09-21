@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Selesai",
-    "gui.consoly.screen.text.title": "Pengaturan Konsoly"
+    "gui.consoly.screen.text.title": "Pengaturan Konsoly",
+    "gui.consoly.screen.button.general": "Umum",
+    "gui.consoly.screen.button.tooltip.general": "Tetapan umum",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "ringan",
+    "gui.consoly.screen.button.theme.dark": "Gelap",
+    "gui.consoly.screen.button.tooltip.theme": "Pilih tema konsol Anda"
 }

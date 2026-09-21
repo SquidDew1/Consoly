@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Kész.",
-    "gui.consoly.screen.text.title": "Konzuli beállítások"
+    "gui.consoly.screen.text.title": "Konzuli beállítások",
+    "gui.consoly.screen.button.general": "Általános",
+    "gui.consoly.screen.button.tooltip.general": "Általános beállítások",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "fény",
+    "gui.consoly.screen.button.theme.dark": "sötét",
+    "gui.consoly.screen.button.tooltip.theme": "Válassza ki a konzol témáját"
 }

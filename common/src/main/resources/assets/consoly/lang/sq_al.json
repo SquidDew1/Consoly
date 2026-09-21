@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "U plotësua",
-    "gui.consoly.screen.text.title": "Rregullimet automatike"
+    "gui.consoly.screen.text.title": "Rregullimet automatike",
+    "gui.consoly.screen.button.general": "Të përgjithshme",
+    "gui.consoly.screen.button.tooltip.general": "Të përgjithshme",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "Drita",
+    "gui.consoly.screen.button.theme.dark": "E errët",
+    "gui.consoly.screen.button.tooltip.theme": "Zgjidh temën e konsolës"
 }

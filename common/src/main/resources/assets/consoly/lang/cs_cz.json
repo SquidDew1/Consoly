@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Hotovo.",
-    "gui.consoly.screen.text.title": "Name"
+    "gui.consoly.screen.text.title": "Name",
+    "gui.consoly.screen.button.general": "Obecné",
+    "gui.consoly.screen.button.tooltip.general": "Obecná nastavení",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "světlo",
+    "gui.consoly.screen.button.theme.dark": "tmavý",
+    "gui.consoly.screen.button.tooltip.theme": "Vyberte téma konzole"
 }

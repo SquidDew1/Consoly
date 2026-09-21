@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Έγινε",
-    "gui.consoly.screen.text.title": "settings κονσόλας"
+    "gui.consoly.screen.text.title": "settings κονσόλας",
+    "gui.consoly.screen.button.general": "Γενικά",
+    "gui.consoly.screen.button.tooltip.general": "Γενικές ρυθμίσεις",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "φως",
+    "gui.consoly.screen.button.theme.dark": "σκούρο",
+    "gui.consoly.screen.button.tooltip.theme": "Επιλέξτε το θέμα της κονσόλας σας"
 }

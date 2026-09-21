@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Fatto",
-    "gui.consoly.screen.text.title": "Impostazioni di consenso"
+    "gui.consoly.screen.text.title": "Impostazioni di consenso",
+    "gui.consoly.screen.button.general": "Generale",
+    "gui.consoly.screen.button.tooltip.general": "Impostazioni generali",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "luce",
+    "gui.consoly.screen.button.theme.dark": "buio scuro",
+    "gui.consoly.screen.button.tooltip.theme": "Scegli il tema della tua console"
 }

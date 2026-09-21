@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Ferdig",
-    "gui.consoly.screen.text.title": "Consoly innstillinger"
+    "gui.consoly.screen.text.title": "Consoly innstillinger",
+    "gui.consoly.screen.button.general": "Generelt",
+    "gui.consoly.screen.button.tooltip.general": "Generelle innstillinger",
+    "gui.consoly.screen.button.theme": "Tema: %s",
+    "gui.consoly.screen.button.theme.light": "lys",
+    "gui.consoly.screen.button.theme.dark": "mørk",
+    "gui.consoly.screen.button.tooltip.theme": "Velg temaet på konsollen"
 }

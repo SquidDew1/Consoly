@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Сделано",
-    "gui.consoly.screen.text.title": "Уравновешенные настройки"
+    "gui.consoly.screen.text.title": "Уравновешенные настройки",
+    "gui.consoly.screen.button.general": "Генерал",
+    "gui.consoly.screen.button.tooltip.general": "Общие настройки",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "свет",
+    "gui.consoly.screen.button.theme.dark": "темный",
+    "gui.consoly.screen.button.tooltip.theme": "Выберите тему своей консоли"
 }

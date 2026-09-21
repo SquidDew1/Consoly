@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Done",
-    "gui.consoly.screen.text.title": "Konstriktaj valoroj"
+    "gui.consoly.screen.text.title": "Konstriktaj valoroj",
+    "gui.consoly.screen.button.general": "Ĝenerala generalo",
+    "gui.consoly.screen.button.tooltip.general": "Ĝeneralaj valoroj",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "lumo de lumo",
+    "gui.consoly.screen.button.theme.dark": "malhela mallumo",
+    "gui.consoly.screen.button.tooltip.theme": "Elektu la temon de via konzolo"
 }

@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "انجام کارها",
-    "gui.consoly.screen.text.title": "تنظیمات Consoly"
+    "gui.consoly.screen.text.title": "تنظیمات Consoly",
+    "gui.consoly.screen.button.general": "ژنرال عمومی",
+    "gui.consoly.screen.button.tooltip.general": "تنظیمات عمومی",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "نور نور",
+    "gui.consoly.screen.button.theme.dark": "تاریکی تاریک",
+    "gui.consoly.screen.button.tooltip.theme": "موضوع کنسول خود را انتخاب کنید"
 }

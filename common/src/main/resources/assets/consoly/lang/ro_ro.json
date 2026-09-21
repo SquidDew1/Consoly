@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Gata.",
-    "gui.consoly.screen.text.title": "Configurări constante"
+    "gui.consoly.screen.text.title": "Configurări constante",
+    "gui.consoly.screen.button.general": "Generale",
+    "gui.consoly.screen.button.tooltip.general": "Configurări generale",
+    "gui.consoly.screen.button.theme": "Tema: %s",
+    "gui.consoly.screen.button.theme.light": "lumină",
+    "gui.consoly.screen.button.theme.dark": "Întuneric",
+    "gui.consoly.screen.button.tooltip.theme": "Alege tema consolei tale"
 }

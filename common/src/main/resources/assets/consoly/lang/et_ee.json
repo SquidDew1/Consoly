@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Tehtud",
-    "gui.consoly.screen.text.title": "Ühtsed seadistused"
+    "gui.consoly.screen.text.title": "Ühtsed seadistused",
+    "gui.consoly.screen.button.general": "Kindral",
+    "gui.consoly.screen.button.tooltip.general": "Üldised seadistused",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "valgus",
+    "gui.consoly.screen.button.theme.dark": "tume",
+    "gui.consoly.screen.button.tooltip.theme": "Vali konsooli teema"
 }

@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "עשה",
-    "gui.consoly.screen.text.title": "הגדרות ברורות"
+    "gui.consoly.screen.text.title": "הגדרות ברורות",
+    "gui.consoly.screen.button.general": "גנרל כללי",
+    "gui.consoly.screen.button.tooltip.general": "הגדרות כלליות",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "אור בהיר",
+    "gui.consoly.screen.button.theme.dark": "כהה כהה",
+    "gui.consoly.screen.button.tooltip.theme": "בחר את הנושא של הקונסולה שלך"
 }

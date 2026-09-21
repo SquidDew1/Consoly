@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Arna dhéanamh in Strasbourg",
-    "gui.consoly.screen.text.title": "Go raibh maith agat"
+    "gui.consoly.screen.text.title": "Go raibh maith agat",
+    "gui.consoly.screen.button.general": "Ginearálta",
+    "gui.consoly.screen.button.tooltip.general": "irl - Library Service",
+    "gui.consoly.screen.button.theme": "Téama: %s]",
+    "gui.consoly.screen.button.theme.light": "solas éadrom",
+    "gui.consoly.screen.button.theme.dark": "cineál gas: in airde",
+    "gui.consoly.screen.button.tooltip.theme": "Roghnaigh an téama do consól"
 }

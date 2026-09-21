@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Atlikta",
-    "gui.consoly.screen.text.title": "Comment"
+    "gui.consoly.screen.text.title": "Comment",
+    "gui.consoly.screen.button.general": "Bendrosios nuostatos",
+    "gui.consoly.screen.button.tooltip.general": "Bendrieji nustatymai",
+    "gui.consoly.screen.button.theme": "Tema: %s",
+    "gui.consoly.screen.button.theme.light": "lengvas",
+    "gui.consoly.screen.button.theme.dark": "tamsa",
+    "gui.consoly.screen.button.tooltip.theme": "Pasirinkite konsolės temą"
 }

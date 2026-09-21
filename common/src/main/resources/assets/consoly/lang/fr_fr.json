@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "Fait",
-    "gui.consoly.screen.text.title": "Paramètres de consolidation"
+    "gui.consoly.screen.text.title": "Paramètres de consolidation",
+    "gui.consoly.screen.button.general": "Généralités",
+    "gui.consoly.screen.button.tooltip.general": "Paramètres généraux",
+    "gui.consoly.screen.button.theme": "Thème: %s",
+    "gui.consoly.screen.button.theme.light": "Lumière",
+    "gui.consoly.screen.button.theme.dark": "sombre",
+    "gui.consoly.screen.button.tooltip.theme": "Choisissez le thème de votre console"
 }

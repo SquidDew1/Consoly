@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "تم",
-    "gui.consoly.screen.text.title": "السياقات المتوافقة"
+    "gui.consoly.screen.text.title": "السياقات المتوافقة",
+    "gui.consoly.screen.button.general": "معلومات عامة",
+    "gui.consoly.screen.button.tooltip.general": "البيئات العامة",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "الضوء",
+    "gui.consoly.screen.button.theme.dark": "الظلام",
+    "gui.consoly.screen.button.tooltip.theme": "اختر موضوعك"
 }

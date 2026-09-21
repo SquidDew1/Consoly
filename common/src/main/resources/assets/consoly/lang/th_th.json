@@ -1,4 +1,10 @@
 {
     "gui.consoly.screen.button.done": "เสร็จแล้ว",
-    "gui.consoly.screen.text.title": "ตั้งค่า"
+    "gui.consoly.screen.text.title": "ตั้งค่า",
+    "gui.consoly.screen.button.general": "ค่าทั่วไป",
+    "gui.consoly.screen.button.tooltip.general": "ตั้งค่าทั่วไป",
+    "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.light": "แสง",
+    "gui.consoly.screen.button.theme.dark": "มืด",
+    "gui.consoly.screen.button.tooltip.theme": "เลือกชุดตกแต่งของคอนโซลของคุณ"
 }
