@@ -1,16 +1,18 @@
 package me.squiddew.consoly.screen;
 
+import me.squiddew.consoly.ConsoleWindow;
 import net.minecraft.client.gui.GuiGraphicsExtractor;
 import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.components.Tooltip;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
 import org.jspecify.annotations.NonNull;
-import me.squiddew.consoly.options.ConsolyOptions;
+import me.squiddew.consoly.ConsolyOptions;
 
 public class ConsolyScreen extends Screen {
 
-    private int page = 0;
+    private static final int y = 34;
+    private static int page = 0;
     public ConsolyScreen(Component title) {
         super(title);
     }
@@ -47,24 +49,78 @@ public class ConsolyScreen extends Screen {
                 ? "gui.consoly.screen.button.theme.dark"
                 : "gui.consoly.screen.button.theme.light"
         );
+        Component show = Component.translatable(ConsolyOptions.show
+                ? "gui.consoly.screen.button.window.show"
+                : "gui.consoly.screen.button.window.hide"
+        );
+        Component font = Component.translatable(ConsolyOptions.bold
+                ? "gui.consoly.screen.button.font.bold"
+                : "gui.consoly.screen.button.font.default"
+        );
+        Component style = Component.translatable(ConsolyOptions.style
+                ? "gui.consoly.screen.button.style.nimbus"
+                : "gui.consoly.screen.button.style.default"
+        );
 
         this.addRenderableWidget(Button.builder(
                 Component.translatable("gui.consoly.screen.button.theme", theme),
                 _ -> {
                     ConsolyOptions.dark = !ConsolyOptions.dark;
+                    ConsolyOptions.save();
+                    if (ConsolyOptions.dark){
+                        ConsoleWindow.setTheme(64);
+                    } else {
+                        ConsoleWindow.setTheme(225);
+                    }
                     this.rebuildWidgets();
                 }
-        ).bounds((this.width / 2) - (36 / 2), 36, 70, 20)
+        ).bounds((this.width / 2) - (y / 2), y, 100, 20)
                 .tooltip(Tooltip.create(Component.translatable("gui.consoly.screen.button.tooltip.theme")))
+                .build());
+
+        this.addRenderableWidget(Button.builder(
+                Component.translatable("gui.consoly.screen.window", show),
+                _ -> {
+                    ConsolyOptions.show = !ConsolyOptions.show;
+                    ConsolyOptions.save();
+                    ConsoleWindow.setWindowVisibility(ConsolyOptions.show);
+                    this.rebuildWidgets();
+                }
+        ).bounds((this.width / 2) - (y / 2), y + 20, 100, 20)
+                .tooltip(Tooltip.create(Component.translatable("gui.consoly.screen.button.window.tooltip")))
+                .build());
+
+        this.addRenderableWidget(Button.builder(
+                Component.translatable("gui.consoly.screen.button.font", font),
+                _ -> {
+                    ConsolyOptions.bold = !ConsolyOptions.bold;
+                    ConsolyOptions.save();
+                    ConsoleWindow.setFont(ConsolyOptions.bold);
+                    this.rebuildWidgets();
+                }
+        ).bounds((this.width / 2) - (y / 2), y + 20 + 20, 100, 20)
+                .tooltip(Tooltip.create(Component.translatable("gui.consoly.screen.button.font.tooltip")))
+                .build());
+
+        this.addRenderableWidget(Button.builder(
+                Component.translatable("gui.consoly.screen.button.style", style),
+                _ -> {
+                    ConsolyOptions.style = !ConsolyOptions.style;
+                    ConsolyOptions.save();
+                    ConsoleWindow.setStyle(ConsolyOptions.style);
+                    this.rebuildWidgets();
+                }
+        ).bounds((this.width / 2) - (y / 2), y + 20 + 20 + 20, 100, 20)
+                .tooltip(Tooltip.create(Component.translatable("gui.consoly.screen.button.style.tooltip")))
                 .build());
     }
 
     @Override
     public void extractRenderState(@NonNull GuiGraphicsExtractor graphicsExtractor, int mouseX, int mouseY, float a) {
-        GuiUtils.drawBg(graphicsExtractor, 0x60000000);
+        ScreenUtils.drawBg(graphicsExtractor, 0x60000000);
 
         super.extractRenderState(graphicsExtractor, mouseX, mouseY, a);
 
-        GuiUtils.drawTitle(graphicsExtractor, 0xFFFFFFFF, true);
+        ScreenUtils.drawTitle(graphicsExtractor, 0xFFFFFFFF, true);
     }
 }
