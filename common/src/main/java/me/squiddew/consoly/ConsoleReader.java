@@ -19,9 +19,9 @@ public class ConsoleReader {
             @Override
             public void append(LogEvent event) {
                 LOG += getLayout().toSerializable(event).toString();
-                if (Window.textArea != null){
-                    Window.textArea.setText(LOG);
-                    Window.textArea.setCaretPosition(Window.textArea.getDocument().getLength());
+                if (ConsoleWindow.textArea != null){
+                    ConsoleWindow.textArea.setText(LOG);
+                    ConsoleWindow.textArea.setCaretPosition(ConsoleWindow.textArea.getDocument().getLength());
                 }
             }
         };
