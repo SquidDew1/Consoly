@@ -6,12 +6,6 @@ public class ConsolyMod {
 
     public static void onInitializeCommon() {
         ConsoleReader.read();
-        Window.create(
-                "Consoly",
-                800,
-                700,
-                true,
-                "/assets/consoly/icon.png"
-        );
+        ConsolyOptions.load();
     }
 }
