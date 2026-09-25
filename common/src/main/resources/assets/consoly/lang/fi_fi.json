@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Valmis",
-    "gui.consoly.screen.text.title": "Konsolidointiasetukset",
     "gui.consoly.screen.button.general": "Yleistä",
     "gui.consoly.screen.button.tooltip.general": "Yleiset asetukset",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "kevyt",
-    "gui.consoly.screen.button.theme.dark": "tumma",
-    "gui.consoly.screen.button.tooltip.theme": "Valitse konsolin teema"
+    "gui.consoly.screen.button.theme.dark": "Tumma",
+    "gui.consoly.screen.button.theme.light": "Valo",
+    "gui.consoly.screen.button.tooltip.theme": "Valitse konsolin teema",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Näytä",
+    "gui.consoly.screen.button.window.hide": "Piilota",
+    "gui.consoly.screen.button.window.tooltip": "Piilota tai näytä konsoliikkuna",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "Rohkea",
+    "gui.consoly.screen.button.font.default": "oletus",
+    "gui.consoly.screen.button.font.tooltip": "Valitse konsolitekstin kirjasin",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "oletus",
+    "gui.consoly.screen.button.style.tooltip": "Valitse konsolisi tyyli"
 }

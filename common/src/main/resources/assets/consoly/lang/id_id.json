@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Selesai",
-    "gui.consoly.screen.text.title": "Pengaturan konsol",
     "gui.consoly.screen.button.general": "Umum",
-    "gui.consoly.screen.button.tooltip.general": "Pengaturan umum",
+    "gui.consoly.screen.button.tooltip.general": "Pengaturan Umum",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "cahaya",
-    "gui.consoly.screen.button.theme.dark": "gelap",
-    "gui.consoly.screen.button.tooltip.theme": "Pilih tema konsol Anda"
+    "gui.consoly.screen.button.theme.dark": "Gelap",
+    "gui.consoly.screen.button.theme.light": "Cahaya",
+    "gui.consoly.screen.button.tooltip.theme": "Pilih tema Konsol Anda",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Tampilkan",
+    "gui.consoly.screen.button.window.hide": "Sembunyikan",
+    "gui.consoly.screen.button.window.tooltip": "Sembunyikan atau tampilkan jendela Konsol",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "tebal",
+    "gui.consoly.screen.button.font.default": "baku",
+    "gui.consoly.screen.button.font.tooltip": "Pilih fonta teks konsol",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "Nimbus",
+    "gui.consoly.screen.button.style.default": "baku",
+    "gui.consoly.screen.button.style.tooltip": "Pilih gaya Konsol Anda"
 }

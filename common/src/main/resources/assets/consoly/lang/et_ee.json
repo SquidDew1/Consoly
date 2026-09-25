@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Tehtud",
-    "gui.consoly.screen.text.title": "Ühtsed seadistused",
     "gui.consoly.screen.button.general": "Kindral",
     "gui.consoly.screen.button.tooltip.general": "Üldised seadistused",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "valgus",
-    "gui.consoly.screen.button.theme.dark": "tume",
-    "gui.consoly.screen.button.tooltip.theme": "Vali konsooli teema"
+    "gui.consoly.screen.button.theme.dark": "Dark",
+    "gui.consoly.screen.button.theme.light": "Valgus",
+    "gui.consoly.screen.button.tooltip.theme": "Vali konsooli teema",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Näita",
+    "gui.consoly.screen.button.window.hide": "Peida",
+    "gui.consoly.screen.button.window.tooltip": "Peida või näidata Konsooli akent",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "julge",
+    "gui.consoly.screen.button.font.default": "vaikimisi",
+    "gui.consoly.screen.button.font.tooltip": "Vali konsooli teksti font",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "vaikimisi",
+    "gui.consoly.screen.button.style.tooltip": "Vali konsooli stiil"
 }

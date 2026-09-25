@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Geschehen",
-    "gui.consoly.screen.text.title": "Consoly Einstellungen",
     "gui.consoly.screen.button.general": "Generalgeneral",
     "gui.consoly.screen.button.tooltip.general": "Allgemeine Einstellungen",
     "gui.consoly.screen.button.theme": "Thema: %s",
+    "gui.consoly.screen.button.theme.dark": "Dunkel",
     "gui.consoly.screen.button.theme.light": "Licht",
-    "gui.consoly.screen.button.theme.dark": "dunkel",
-    "gui.consoly.screen.button.tooltip.theme": "Wählen Sie das Thema Ihrer Konsole"
+    "gui.consoly.screen.button.tooltip.theme": "Wählen Sie das Thema Ihrer Konsole",
+    "gui.consoly.screen.window": "Konsole: %s",
+    "gui.consoly.screen.button.window.show": "Show",
+    "gui.consoly.screen.button.window.hide": "Hüllen",
+    "gui.consoly.screen.button.window.tooltip": "Ausblenden oder Anzeigen des Konsolenfensters",
+    "gui.consoly.screen.button.font": "Schrift: %s",
+    "gui.consoly.screen.button.font.bold": "fett",
+    "gui.consoly.screen.button.font.default": "Ausfall",
+    "gui.consoly.screen.button.font.tooltip": "Wählen Sie die Console text font",
+    "gui.consoly.screen.button.style": "Stil: %s",
+    "gui.consoly.screen.button.style.nimbus": "Nimbus",
+    "gui.consoly.screen.button.style.default": "Ausfall",
+    "gui.consoly.screen.button.style.tooltip": "Wählen Sie den Stil Ihrer Konsole"
 }

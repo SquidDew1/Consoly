@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Gata.",
-    "gui.consoly.screen.text.title": "Configurări constante",
     "gui.consoly.screen.button.general": "Generale",
     "gui.consoly.screen.button.tooltip.general": "Configurări generale",
     "gui.consoly.screen.button.theme": "Tema: %s",
-    "gui.consoly.screen.button.theme.light": "lumină",
     "gui.consoly.screen.button.theme.dark": "Întuneric",
-    "gui.consoly.screen.button.tooltip.theme": "Alege tema consolei tale"
+    "gui.consoly.screen.button.theme.light": "Lumină",
+    "gui.consoly.screen.button.tooltip.theme": "Alege tema consolei tale",
+    "gui.consoly.screen.window": "Consolă: %s",
+    "gui.consoly.screen.button.window.show": "Arată",
+    "gui.consoly.screen.button.window.hide": "Ascunde",
+    "gui.consoly.screen.button.window.tooltip": "Ascunde sau afișează fereastra Console",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "aldine",
+    "gui.consoly.screen.button.font.default": "implicit",
+    "gui.consoly.screen.button.font.tooltip": "Alegeți fontul de text Console",
+    "gui.consoly.screen.button.style": "Stil: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "implicit",
+    "gui.consoly.screen.button.style.tooltip": "Alege stilul consolei tale"
 }

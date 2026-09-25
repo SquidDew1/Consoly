@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Færdig",
-    "gui.consoly.screen.text.title": "Konsol indstillinger",
     "gui.consoly.screen.button.general": "Generelt",
     "gui.consoly.screen.button.tooltip.general": "Generelle indstillinger",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "lys",
-    "gui.consoly.screen.button.theme.dark": "mørk",
-    "gui.consoly.screen.button.tooltip.theme": "Vælg temaet for din konsol"
+    "gui.consoly.screen.button.theme.dark": "Mørk",
+    "gui.consoly.screen.button.theme.light": "Lys",
+    "gui.consoly.screen.button.tooltip.theme": "Vælg temaet for din konsol",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Vis",
+    "gui.consoly.screen.button.window.hide": "Skjul",
+    "gui.consoly.screen.button.window.tooltip": "Skjul eller vis konsolvinduet",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "fed",
+    "gui.consoly.screen.button.font.default": "standard",
+    "gui.consoly.screen.button.font.tooltip": "Vælg Konsolens tekstskrifttype",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "standard",
+    "gui.consoly.screen.button.style.tooltip": "Vælg stilen for din konsol"
 }

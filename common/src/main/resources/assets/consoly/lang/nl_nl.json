@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Klaar",
-    "gui.consoly.screen.text.title": "Console instellingen",
     "gui.consoly.screen.button.general": "Algemeen",
     "gui.consoly.screen.button.tooltip.general": "Algemene instellingen",
     "gui.consoly.screen.button.theme": "Thema: %s",
-    "gui.consoly.screen.button.theme.light": "licht",
-    "gui.consoly.screen.button.theme.dark": "donker",
-    "gui.consoly.screen.button.tooltip.theme": "Kies het thema van uw console"
+    "gui.consoly.screen.button.theme.dark": "Donker",
+    "gui.consoly.screen.button.theme.light": "Licht",
+    "gui.consoly.screen.button.tooltip.theme": "Kies het thema van uw Console",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Tonen",
+    "gui.consoly.screen.button.window.hide": "Verbergen",
+    "gui.consoly.screen.button.window.tooltip": "Het Console-venster verbergen of tonen",
+    "gui.consoly.screen.button.font": "Lettertype: %s",
+    "gui.consoly.screen.button.font.bold": "vet",
+    "gui.consoly.screen.button.font.default": "standaard",
+    "gui.consoly.screen.button.font.tooltip": "Het tekstlettertype Console kiezen",
+    "gui.consoly.screen.button.style": "Stijl: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "standaard",
+    "gui.consoly.screen.button.style.tooltip": "Kies de stijl van uw Console"
 }

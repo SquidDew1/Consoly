@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Feito",
-    "gui.consoly.screen.text.title": "Axuste cómodo",
     "gui.consoly.screen.button.general": "General",
     "gui.consoly.screen.button.tooltip.general": "Configuración xeral",
     "gui.consoly.screen.button.theme": "Categoría: %s",
-    "gui.consoly.screen.button.theme.light": "luz",
     "gui.consoly.screen.button.theme.dark": "escuro",
-    "gui.consoly.screen.button.tooltip.theme": "Elixe o tema da túa consola"
+    "gui.consoly.screen.button.theme.light": "Luz",
+    "gui.consoly.screen.button.tooltip.theme": "Elixe o tema da túa consola",
+    "gui.consoly.screen.window": "Categoría: %s",
+    "gui.consoly.screen.button.window.show": "Show",
+    "gui.consoly.screen.button.window.hide": "Ocultar",
+    "gui.consoly.screen.button.window.tooltip": "Ocultar ou mostrar a fiestra da consola",
+    "gui.consoly.screen.button.font": "Categoría: %s",
+    "gui.consoly.screen.button.font.bold": "audaz",
+    "gui.consoly.screen.button.font.default": "Por defecto",
+    "gui.consoly.screen.button.font.tooltip": "Seleccione a fonte de texto Console",
+    "gui.consoly.screen.button.style": "Categoría: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "Por defecto",
+    "gui.consoly.screen.button.style.tooltip": "Elixe o estilo da túa consola"
 }

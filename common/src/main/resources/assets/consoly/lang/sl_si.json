@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Opravljeno",
-    "gui.consoly.screen.text.title": "Konsolidacijske nastavitve",
     "gui.consoly.screen.button.general": "Splošno",
     "gui.consoly.screen.button.tooltip.general": "Splošne nastavitve",
     "gui.consoly.screen.button.theme": "Tema: %s",
-    "gui.consoly.screen.button.theme.light": "svetlo",
-    "gui.consoly.screen.button.theme.dark": "temna",
-    "gui.consoly.screen.button.tooltip.theme": "Izberite temo konzole"
+    "gui.consoly.screen.button.theme.dark": "Temno",
+    "gui.consoly.screen.button.theme.light": "Svetloba",
+    "gui.consoly.screen.button.tooltip.theme": "Izberite temo konzole",
+    "gui.consoly.screen.window": "Konzola: %s",
+    "gui.consoly.screen.button.window.show": "Prikaži",
+    "gui.consoly.screen.button.window.hide": "Skrij",
+    "gui.consoly.screen.button.window.tooltip": "Skrij ali prikaži okno konzole",
+    "gui.consoly.screen.button.font": "Pisava: %s",
+    "gui.consoly.screen.button.font.bold": "drzen",
+    "gui.consoly.screen.button.font.default": "privzeto",
+    "gui.consoly.screen.button.font.tooltip": "Izberite pisavo besedila konzole",
+    "gui.consoly.screen.button.style": "Slog: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "privzeto",
+    "gui.consoly.screen.button.style.tooltip": "Izberite slog konzole"
 }

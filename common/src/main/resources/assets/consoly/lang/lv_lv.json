@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Pabeigts",
-    "gui.consoly.screen.text.title": "Konsoliju iestatījumi",
     "gui.consoly.screen.button.general": "Vispārīga informācija",
     "gui.consoly.screen.button.tooltip.general": "Pamata iestatījumi",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "viegls",
-    "gui.consoly.screen.button.theme.dark": "tumši",
-    "gui.consoly.screen.button.tooltip.theme": "Izvēlieties jūsu konsoles tēmu"
+    "gui.consoly.screen.button.theme.dark": "Tumšs",
+    "gui.consoly.screen.button.theme.light": "Gaišs",
+    "gui.consoly.screen.button.tooltip.theme": "Izvēlieties savu konsoles tēmu",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Parādīt",
+    "gui.consoly.screen.button.window.hide": "Slēpt",
+    "gui.consoly.screen.button.window.tooltip": "Slēpt vai rādīt konsoles logu",
+    "gui.consoly.screen.button.font": "Fonts: %s",
+    "gui.consoly.screen.button.font.bold": "treknraksts",
+    "gui.consoly.screen.button.font.default": "noklusētais",
+    "gui.consoly.screen.button.font.tooltip": "Izvēlieties konsoles teksta fontu",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "noklusētais",
+    "gui.consoly.screen.button.style.tooltip": "Izvēlieties konsoles stilu"
 }

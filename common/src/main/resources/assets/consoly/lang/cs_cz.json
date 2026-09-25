@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Hotovo.",
-    "gui.consoly.screen.text.title": "Name",
     "gui.consoly.screen.button.general": "Obecné",
     "gui.consoly.screen.button.tooltip.general": "Obecná nastavení",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "světlo",
-    "gui.consoly.screen.button.theme.dark": "tmavý",
-    "gui.consoly.screen.button.tooltip.theme": "Vyberte téma konzole"
+    "gui.consoly.screen.button.theme.dark": "Tmavé",
+    "gui.consoly.screen.button.theme.light": "Světlo",
+    "gui.consoly.screen.button.tooltip.theme": "Vyberte téma vašeho Console",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Zobrazit",
+    "gui.consoly.screen.button.window.hide": "Skrýt",
+    "gui.consoly.screen.button.window.tooltip": "Skrýt nebo zobrazit okno Konzole",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "tučné",
+    "gui.consoly.screen.button.font.default": "výchozí",
+    "gui.consoly.screen.button.font.tooltip": "Vyberte textové písmo Konzole",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "výchozí",
+    "gui.consoly.screen.button.style.tooltip": "Vyberte si styl konzole"
 }

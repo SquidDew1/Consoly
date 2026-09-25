@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "U plotësua",
-    "gui.consoly.screen.text.title": "Rregullimet automatike",
     "gui.consoly.screen.button.general": "Të përgjithshme",
-    "gui.consoly.screen.button.tooltip.general": "Të përgjithshme",
+    "gui.consoly.screen.button.tooltip.general": "Rregullimet e përgjithshme",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "Drita",
     "gui.consoly.screen.button.theme.dark": "E errët",
-    "gui.consoly.screen.button.tooltip.theme": "Zgjidh temën e konsolës"
+    "gui.consoly.screen.button.theme.light": "Drita",
+    "gui.consoly.screen.button.tooltip.theme": "Zgjidh temën e Konsolës",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Shfaq",
+    "gui.consoly.screen.button.window.hide": "Fshih",
+    "gui.consoly.screen.button.window.tooltip": "Fshih ose shfaq dritaren Konsol",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "E guximshme",
+    "gui.consoly.screen.button.font.default": "E prezgjedhur",
+    "gui.consoly.screen.button.font.tooltip": "Zgjidh gërmat e tekstit konsol",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "Nimbus",
+    "gui.consoly.screen.button.style.default": "E prezgjedhur",
+    "gui.consoly.screen.button.style.tooltip": "Zgjidh stilin e konsolës"
 }

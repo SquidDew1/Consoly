@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "이름 *",
-    "gui.consoly.screen.text.title": "단점 설정",
     "gui.consoly.screen.button.general": "주요사업",
     "gui.consoly.screen.button.tooltip.general": "일반 설정",
     "gui.consoly.screen.button.theme": "테마: %s",
+    "gui.consoly.screen.button.theme.dark": "한국어",
     "gui.consoly.screen.button.theme.light": "제품 정보",
-    "gui.consoly.screen.button.theme.dark": "뚱 베어",
-    "gui.consoly.screen.button.tooltip.theme": "콘솔의 테마를 선택하세요"
+    "gui.consoly.screen.button.tooltip.theme": "콘솔의 테마를 선택하세요",
+    "gui.consoly.screen.window": "콘솔: %s",
+    "gui.consoly.screen.button.window.show": "이름 *",
+    "gui.consoly.screen.button.window.hide": "이름 *",
+    "gui.consoly.screen.button.window.tooltip": "콘솔 창을 숨기기 또는 표시",
+    "gui.consoly.screen.button.font": "글꼴: %s",
+    "gui.consoly.screen.button.font.bold": "팟캐스트",
+    "gui.consoly.screen.button.font.default": "기본 정보",
+    "gui.consoly.screen.button.font.tooltip": "콘솔 텍스트 글꼴 선택",
+    "gui.consoly.screen.button.style": "스타일: %s",
+    "gui.consoly.screen.button.style.nimbus": "뚱 베어",
+    "gui.consoly.screen.button.style.default": "기본 정보",
+    "gui.consoly.screen.button.style.tooltip": "콘솔의 스타일을 선택하십시오."
 }

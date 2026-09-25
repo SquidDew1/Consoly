@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Done",
-    "gui.consoly.screen.text.title": "Konsolina inställningar",
     "gui.consoly.screen.button.general": "General general",
     "gui.consoly.screen.button.tooltip.general": "Allmänna inställningar",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "ljust ljus",
-    "gui.consoly.screen.button.theme.dark": "mörkt mörkt mörkt",
-    "gui.consoly.screen.button.tooltip.theme": "Välj temat för din konsol"
+    "gui.consoly.screen.button.theme.dark": "Mörk",
+    "gui.consoly.screen.button.theme.light": "Ljus ljus",
+    "gui.consoly.screen.button.tooltip.theme": "Välj temat för din konsol",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Visa",
+    "gui.consoly.screen.button.window.hide": "Hide",
+    "gui.consoly.screen.button.window.tooltip": "Dölj eller visa konsolfönstret",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "djärv",
+    "gui.consoly.screen.button.font.default": "Default",
+    "gui.consoly.screen.button.font.tooltip": "Välj Console text font",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "Nimbus",
+    "gui.consoly.screen.button.style.default": "Default",
+    "gui.consoly.screen.button.style.tooltip": "Välj stilen på din konsol"
 }

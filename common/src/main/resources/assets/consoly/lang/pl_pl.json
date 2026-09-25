@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Gotowe",
-    "gui.consoly.screen.text.title": "Ustawienia consoly",
     "gui.consoly.screen.button.general": "Ogólne",
     "gui.consoly.screen.button.tooltip.general": "Ustawienia ogólne",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "światło",
-    "gui.consoly.screen.button.theme.dark": "ciemne",
-    "gui.consoly.screen.button.tooltip.theme": "Wybierz motyw konsoli"
+    "gui.consoly.screen.button.theme.dark": "Ciemny",
+    "gui.consoly.screen.button.theme.light": "Światło",
+    "gui.consoly.screen.button.tooltip.theme": "Wybierz motyw swojej konsoli",
+    "gui.consoly.screen.window": "Konsola: %s",
+    "gui.consoly.screen.button.window.show": "Pokaż",
+    "gui.consoly.screen.button.window.hide": "Ukryj",
+    "gui.consoly.screen.button.window.tooltip": "Ukryj lub pokaż okno konsoli",
+    "gui.consoly.screen.button.font": "Czcionka: %s",
+    "gui.consoly.screen.button.font.bold": "pogrubiona",
+    "gui.consoly.screen.button.font.default": "domyślny",
+    "gui.consoly.screen.button.font.tooltip": "Wybierz czcionkę tekstu Konsoli",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "domyślny",
+    "gui.consoly.screen.button.style.tooltip": "Wybierz styl konsoli"
 }

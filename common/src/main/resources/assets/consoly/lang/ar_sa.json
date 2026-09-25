@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "تم",
-    "gui.consoly.screen.text.title": "السياقات المتوافقة",
     "gui.consoly.screen.button.general": "معلومات عامة",
-    "gui.consoly.screen.button.tooltip.general": "البيئات العامة",
+    "gui.consoly.screen.button.tooltip.general": "General Settings",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "الضوء",
     "gui.consoly.screen.button.theme.dark": "الظلام",
-    "gui.consoly.screen.button.tooltip.theme": "اختر موضوعك"
+    "gui.consoly.screen.button.theme.light": "الضوء",
+    "gui.consoly.screen.button.tooltip.theme": "اختر موضوع كونسول",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "العرض",
+    "gui.consoly.screen.button.window.hide": "اختبئ",
+    "gui.consoly.screen.button.window.tooltip": "اختبئ أو اظهر نافذة كونسول",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "جريئة",
+    "gui.consoly.screen.button.font.default": "العجز",
+    "gui.consoly.screen.button.font.tooltip": "اختر نص كونسول",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "العجز",
+    "gui.consoly.screen.button.style.tooltip": "اختر اسلوبك"
 }

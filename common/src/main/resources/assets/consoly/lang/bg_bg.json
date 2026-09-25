@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Готово.",
-    "gui.consoly.screen.text.title": "Настройки на конзолите",
     "gui.consoly.screen.button.general": "Общи положения",
     "gui.consoly.screen.button.tooltip.general": "Общи настройки",
     "gui.consoly.screen.button.theme": "Тема: %s",
-    "gui.consoly.screen.button.theme.light": "светлина",
-    "gui.consoly.screen.button.theme.dark": "тъмен",
-    "gui.consoly.screen.button.tooltip.theme": "Изберете темата на вашата конзола"
+    "gui.consoly.screen.button.theme.dark": "Тъмно",
+    "gui.consoly.screen.button.theme.light": "Светлина",
+    "gui.consoly.screen.button.tooltip.theme": "Изберете темата на конзолата",
+    "gui.consoly.screen.window": "Конзола: %s",
+    "gui.consoly.screen.button.window.show": "Показване",
+    "gui.consoly.screen.button.window.hide": "Скриване",
+    "gui.consoly.screen.button.window.tooltip": "Скриване или показване на прозореца на конзолата",
+    "gui.consoly.screen.button.font": "Шрифт: %s",
+    "gui.consoly.screen.button.font.bold": "получер",
+    "gui.consoly.screen.button.font.default": "по подразбиране",
+    "gui.consoly.screen.button.font.tooltip": "Избор на текстов шрифт на Console",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "нимбус",
+    "gui.consoly.screen.button.style.default": "по подразбиране",
+    "gui.consoly.screen.button.style.tooltip": "Изберете стила на конзолата"
 }

@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Έγινε",
-    "gui.consoly.screen.text.title": "settings κονσόλας",
     "gui.consoly.screen.button.general": "Γενικά",
     "gui.consoly.screen.button.tooltip.general": "Γενικές ρυθμίσεις",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "φως",
-    "gui.consoly.screen.button.theme.dark": "σκούρο",
-    "gui.consoly.screen.button.tooltip.theme": "Επιλέξτε το θέμα της κονσόλας σας"
+    "gui.consoly.screen.button.theme.dark": "Σκούρο",
+    "gui.consoly.screen.button.theme.light": "Φως",
+    "gui.consoly.screen.button.tooltip.theme": "Επιλέξτε το θέμα της κονσόλας σας",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Εμφάνιση",
+    "gui.consoly.screen.button.window.hide": "Απόκρυψη",
+    "gui.consoly.screen.button.window.tooltip": "Απόκρυψη ή εμφάνιση του παραθύρου κονσόλας",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "έντονα",
+    "gui.consoly.screen.button.font.default": "προκαθορισμένο",
+    "gui.consoly.screen.button.font.tooltip": "Επιλέξτε τη γραμματοσειρά κειμένου κονσόλας",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "νιμβός",
+    "gui.consoly.screen.button.style.default": "προκαθορισμένο",
+    "gui.consoly.screen.button.style.tooltip": "Επιλέξτε το στυλ της κονσόλας σας"
 }

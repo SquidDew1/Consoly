@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Fatto",
-    "gui.consoly.screen.text.title": "Impostazioni di consenso",
     "gui.consoly.screen.button.general": "Generale",
     "gui.consoly.screen.button.tooltip.general": "Impostazioni generali",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "luce",
-    "gui.consoly.screen.button.theme.dark": "buio scuro",
-    "gui.consoly.screen.button.tooltip.theme": "Scegli il tema della tua console"
+    "gui.consoly.screen.button.theme.dark": "Oscuro",
+    "gui.consoly.screen.button.theme.light": "Luce",
+    "gui.consoly.screen.button.tooltip.theme": "Scegli il tema della tua console",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Mostra",
+    "gui.consoly.screen.button.window.hide": "Nascondi",
+    "gui.consoly.screen.button.window.tooltip": "Nascondi o mostra la finestra Console",
+    "gui.consoly.screen.button.font": "%s",
+    "gui.consoly.screen.button.font.bold": "coraggiosa",
+    "gui.consoly.screen.button.font.default": "predefinito",
+    "gui.consoly.screen.button.font.tooltip": "Scegli il carattere di testo Console",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "Nimbus",
+    "gui.consoly.screen.button.style.default": "predefinito",
+    "gui.consoly.screen.button.style.tooltip": "Scegli lo stile della tua console"
 }

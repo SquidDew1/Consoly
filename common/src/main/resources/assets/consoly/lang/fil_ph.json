@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Tapos",
-    "gui.consoly.screen.text.title": "Kombinyenteng mga Kalagayan",
     "gui.consoly.screen.button.general": "Heneral",
-    "gui.consoly.screen.button.tooltip.general": "Pangkalahatang mga Kalagayan",
+    "gui.consoly.screen.button.tooltip.general": "Pangkalahatang mga Pagtatakda",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "liwanag",
-    "gui.consoly.screen.button.theme.dark": "dilim",
-    "gui.consoly.screen.button.tooltip.theme": "Piliin ang tema ng iyong pag - aliw"
+    "gui.consoly.screen.button.theme.dark": "Madilim",
+    "gui.consoly.screen.button.theme.light": "Liwanag",
+    "gui.consoly.screen.button.tooltip.theme": "Piliin ang tema ng inyong Console",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Ipakita",
+    "gui.consoly.screen.button.window.hide": "Mapagtago",
+    "gui.consoly.screen.button.window.tooltip": "Itago o ipakita ang bintana ng Console",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "matapang",
+    "gui.consoly.screen.button.font.default": "default",
+    "gui.consoly.screen.button.font.tooltip": "Piliin ang Conele text font",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "Mga nimbu",
+    "gui.consoly.screen.button.style.default": "default",
+    "gui.consoly.screen.button.style.tooltip": "Piliin ang istilo ng iyong Console"
 }

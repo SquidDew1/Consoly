@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Fet",
-    "gui.consoly.screen.text.title": "Arranjament de la Consoly",
     "gui.consoly.screen.button.general": "General",
-    "gui.consoly.screen.button.tooltip.general": "Arranjaments generals",
+    "gui.consoly.screen.button.tooltip.general": "Paràmetres generals",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "llum",
     "gui.consoly.screen.button.theme.dark": "Fosc",
-    "gui.consoly.screen.button.tooltip.theme": "Escolliu el tema de la consola"
+    "gui.consoly.screen.button.theme.light": "Llum",
+    "gui.consoly.screen.button.tooltip.theme": "Escolliu el tema de la vostra consola",
+    "gui.consoly.screen.window": "Consola: %s",
+    "gui.consoly.screen.button.window.show": "Mostra",
+    "gui.consoly.screen.button.window.hide": "Oculta",
+    "gui.consoly.screen.button.window.tooltip": "Oculta o mostra la finestra de la consola",
+    "gui.consoly.screen.button.font": "Tipus de lletra: %s",
+    "gui.consoly.screen.button.font.bold": "negreta",
+    "gui.consoly.screen.button.font.default": "per omissió",
+    "gui.consoly.screen.button.font.tooltip": "Escolliu el tipus de lletra del text de la consola",
+    "gui.consoly.screen.button.style": "Estil: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "per omissió",
+    "gui.consoly.screen.button.style.tooltip": "Escolliu l' estil de la vostra consola"
 }

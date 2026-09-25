@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "写好了",
-    "gui.consoly.screen.text.title": "组合设置",
     "gui.consoly.screen.button.general": "常规",
     "gui.consoly.screen.button.tooltip.general": "常规设置",
     "gui.consoly.screen.button.theme": "主题:%s",
-    "gui.consoly.screen.button.theme.light": "光线",
     "gui.consoly.screen.button.theme.dark": "阴暗",
-    "gui.consoly.screen.button.tooltip.theme": "选择控制台的主题"
+    "gui.consoly.screen.button.theme.light": "光线",
+    "gui.consoly.screen.button.tooltip.theme": "选择您的控制台的主题",
+    "gui.consoly.screen.window": "控制台: %s",
+    "gui.consoly.screen.button.window.show": "显示",
+    "gui.consoly.screen.button.window.hide": "隐藏",
+    "gui.consoly.screen.button.window.tooltip": "隐藏或显示控制台窗口",
+    "gui.consoly.screen.button.font": "字体 : %s",
+    "gui.consoly.screen.button.font.bold": "粗体显示",
+    "gui.consoly.screen.button.font.default": "默认",
+    "gui.consoly.screen.button.font.tooltip": "选择主控台文本字体",
+    "gui.consoly.screen.button.style": "样式 : %s",
+    "gui.consoly.screen.button.style.nimbus": "闪光灯",
+    "gui.consoly.screen.button.style.default": "默认",
+    "gui.consoly.screen.button.style.tooltip": "选择控制台的样式"
 }

@@ -1,10 +1,21 @@
 {
   "gui.consoly.screen.button.done": "Done",
-  "gui.consoly.screen.text.title": "Consoly settings",
   "gui.consoly.screen.button.general": "General",
-  "gui.consoly.screen.button.tooltip.general": "General settings",
+  "gui.consoly.screen.button.tooltip.general": "General Settings",
   "gui.consoly.screen.button.theme": "Theme: %s",
-  "gui.consoly.screen.button.theme.light": "light",
-  "gui.consoly.screen.button.theme.dark": "dark",
-  "gui.consoly.screen.button.tooltip.theme": "Choose the theme of your console"
+  "gui.consoly.screen.button.theme.dark": "Dark",
+  "gui.consoly.screen.button.theme.light": "Light",
+  "gui.consoly.screen.button.tooltip.theme": "Choose the theme of your Console",
+  "gui.consoly.screen.window": "Console: %s",
+  "gui.consoly.screen.button.window.show": "Show",
+  "gui.consoly.screen.button.window.hide": "Hide",
+  "gui.consoly.screen.button.window.tooltip": "Hide or show the Console window",
+  "gui.consoly.screen.button.font": "Font: %s",
+  "gui.consoly.screen.button.font.bold": "bold",
+  "gui.consoly.screen.button.font.default": "default",
+  "gui.consoly.screen.button.font.tooltip": "Choose the Console text font",
+  "gui.consoly.screen.button.style": "Style: %s",
+  "gui.consoly.screen.button.style.nimbus": "nimbus",
+  "gui.consoly.screen.button.style.default": "default",
+  "gui.consoly.screen.button.style.tooltip": "Choose the style of your Console"
 }

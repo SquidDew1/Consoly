@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Fait",
-    "gui.consoly.screen.text.title": "Paramètres de consolidation",
     "gui.consoly.screen.button.general": "Généralités",
     "gui.consoly.screen.button.tooltip.general": "Paramètres généraux",
     "gui.consoly.screen.button.theme": "Thème: %s",
+    "gui.consoly.screen.button.theme.dark": "Noir",
     "gui.consoly.screen.button.theme.light": "Lumière",
-    "gui.consoly.screen.button.theme.dark": "sombre",
-    "gui.consoly.screen.button.tooltip.theme": "Choisissez le thème de votre console"
+    "gui.consoly.screen.button.tooltip.theme": "Choisissez le thème de votre Console",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Afficher",
+    "gui.consoly.screen.button.window.hide": "Masquer",
+    "gui.consoly.screen.button.window.tooltip": "Masquer ou afficher la fenêtre Console",
+    "gui.consoly.screen.button.font": "Police: %s",
+    "gui.consoly.screen.button.font.bold": "gras",
+    "gui.consoly.screen.button.font.default": "par défaut",
+    "gui.consoly.screen.button.font.tooltip": "Choisissez la police texte Console",
+    "gui.consoly.screen.button.style": "Style : %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "par défaut",
+    "gui.consoly.screen.button.style.tooltip": "Choisissez le style de votre console"
 }

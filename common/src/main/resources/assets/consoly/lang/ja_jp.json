@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "ログイン",
-    "gui.consoly.screen.text.title": "一貫した設定",
     "gui.consoly.screen.button.general": "インフォメーション",
     "gui.consoly.screen.button.tooltip.general": "一般的な設定",
     "gui.consoly.screen.button.theme": "テーマ: %s",
-    "gui.consoly.screen.button.theme.light": "ライトライト",
     "gui.consoly.screen.button.theme.dark": "ダーク",
-    "gui.consoly.screen.button.tooltip.theme": "コンソールのテーマを選択してください"
+    "gui.consoly.screen.button.theme.light": "ライトライト",
+    "gui.consoly.screen.button.tooltip.theme": "コンソールのテーマを選択してください",
+    "gui.consoly.screen.window": "コンソール: %s",
+    "gui.consoly.screen.button.window.show": "イベント",
+    "gui.consoly.screen.button.window.hide": "ログイン",
+    "gui.consoly.screen.button.window.tooltip": "コンソールウィンドウを非表示または表示する",
+    "gui.consoly.screen.button.font": "フォント: %s",
+    "gui.consoly.screen.button.font.bold": "ログイン",
+    "gui.consoly.screen.button.font.default": "デフォルト",
+    "gui.consoly.screen.button.font.tooltip": "コンソールテキストフォントを選択します。",
+    "gui.consoly.screen.button.style": "スタイル: %s",
+    "gui.consoly.screen.button.style.nimbus": "ニムバス",
+    "gui.consoly.screen.button.style.default": "デフォルト",
+    "gui.consoly.screen.button.style.tooltip": "コンソールのスタイルを選択します。"
 }

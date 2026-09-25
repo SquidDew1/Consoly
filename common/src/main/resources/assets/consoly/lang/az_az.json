@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Don",
-    "gui.consoly.screen.text.title": "Konvensiyalar",
     "gui.consoly.screen.button.general": "Ümumi",
-    "gui.consoly.screen.button.tooltip.general": "Qeydiyyat",
+    "gui.consoly.screen.button.tooltip.general": "Ümumi Ayarlar",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "light",
-    "gui.consoly.screen.button.theme.dark": "dark",
-    "gui.consoly.screen.button.tooltip.theme": "Sizin konsolun mövzu seçin"
+    "gui.consoly.screen.button.theme.dark": "Qızıl",
+    "gui.consoly.screen.button.theme.light": "İşıq",
+    "gui.consoly.screen.button.tooltip.theme": "Sizin Konsolun mövzu seçin",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Bakı",
+    "gui.consoly.screen.button.window.hide": "Bakı",
+    "gui.consoly.screen.button.window.tooltip": "Yadda saxla",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "böyük",
+    "gui.consoly.screen.button.font.default": "Qeydiyyat",
+    "gui.consoly.screen.button.font.tooltip": "Konsol yazı fontu seçin",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "Qalereya",
+    "gui.consoly.screen.button.style.default": "Qeydiyyat",
+    "gui.consoly.screen.button.style.tooltip": "Konsolunuzun stil seçin"
 }

@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Eginda",
-    "gui.consoly.screen.text.title": "Ezarpenak",
     "gui.consoly.screen.button.general": "Orokorra",
     "gui.consoly.screen.button.tooltip.general": "Ezarpen orokorrak",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "argia",
-    "gui.consoly.screen.button.theme.dark": "iluna",
-    "gui.consoly.screen.button.tooltip.theme": "Aukeratu kontsolaren gaia"
+    "gui.consoly.screen.button.theme.dark": "Iluna",
+    "gui.consoly.screen.button.theme.light": "Argia",
+    "gui.consoly.screen.button.tooltip.theme": "Aukeratu zure kontsolaren gaia",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Erakutsi",
+    "gui.consoly.screen.button.window.hide": "Ezkutatu",
+    "gui.consoly.screen.button.window.tooltip": "Ezkutatu edo erakutsi kontsolaren leihoa",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "ausarta",
+    "gui.consoly.screen.button.font.default": "lehenetsia",
+    "gui.consoly.screen.button.font.tooltip": "Aukeratu kontsolaren letra-tipoa",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "lehenetsia",
+    "gui.consoly.screen.button.style.tooltip": "Aukeratu zure kontsolaren estiloa"
 }

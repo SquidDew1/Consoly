@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "עשה",
-    "gui.consoly.screen.text.title": "הגדרות ברורות",
     "gui.consoly.screen.button.general": "גנרל כללי",
     "gui.consoly.screen.button.tooltip.general": "הגדרות כלליות",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "אור בהיר",
     "gui.consoly.screen.button.theme.dark": "כהה כהה",
-    "gui.consoly.screen.button.tooltip.theme": "בחר את הנושא של הקונסולה שלך"
+    "gui.consoly.screen.button.theme.light": "אור אור",
+    "gui.consoly.screen.button.tooltip.theme": "בחר את הנושא של הקונסולה שלך",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Show Show",
+    "gui.consoly.screen.button.window.hide": "הסתר",
+    "gui.consoly.screen.button.window.tooltip": "עקבו אחרי The Console window",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "נועז",
+    "gui.consoly.screen.button.font.default": "ברירת מחדל",
+    "gui.consoly.screen.button.font.tooltip": "בחר את פונטאת טקסט הקונסולה",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "ברירת מחדל",
+    "gui.consoly.screen.button.style.tooltip": "בחרו את הסגנון של הקונסולה שלכם"
 }

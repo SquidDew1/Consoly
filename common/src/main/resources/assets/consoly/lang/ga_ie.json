@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Arna dhéanamh in Strasbourg",
-    "gui.consoly.screen.text.title": "Go raibh maith agat",
     "gui.consoly.screen.button.general": "Ginearálta",
-    "gui.consoly.screen.button.tooltip.general": "irl - Library Service",
+    "gui.consoly.screen.button.tooltip.general": "Socruithe ginearálta",
     "gui.consoly.screen.button.theme": "Téama: %s]",
-    "gui.consoly.screen.button.theme.light": "solas éadrom",
-    "gui.consoly.screen.button.theme.dark": "cineál gas: in airde",
-    "gui.consoly.screen.button.tooltip.theme": "Roghnaigh an téama do consól"
+    "gui.consoly.screen.button.theme.dark": "tréimhse de chuid eile:",
+    "gui.consoly.screen.button.theme.light": "Solas na Gréine",
+    "gui.consoly.screen.button.tooltip.theme": "Roghnaigh an téama do Console",
+    "gui.consoly.screen.window": "Toiliú: %s]",
+    "gui.consoly.screen.button.window.show": "Taispeáin Taispeáin",
+    "gui.consoly.screen.button.window.hide": "8ú Téarma Parlaiminteach",
+    "gui.consoly.screen.button.window.tooltip": "Folaigh nó a thaispeáint ar an fhuinneog Console",
+    "gui.consoly.screen.button.font": "Font: %s]",
+    "gui.consoly.screen.button.font.bold": "trom trom",
+    "gui.consoly.screen.button.font.default": "cineál gas: in airde",
+    "gui.consoly.screen.button.font.tooltip": "Roghnaigh an cló téacs Console",
+    "gui.consoly.screen.button.style": "Stíl: %s",
+    "gui.consoly.screen.button.style.nimbus": "Déan teagmháil linn",
+    "gui.consoly.screen.button.style.default": "cineál gas: in airde",
+    "gui.consoly.screen.button.style.tooltip": "Roghnaigh an stíl do Console"
 }

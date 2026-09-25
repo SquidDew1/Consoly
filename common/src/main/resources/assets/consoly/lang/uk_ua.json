@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Сонце",
-    "gui.consoly.screen.text.title": "Налаштування консолі",
     "gui.consoly.screen.button.general": "Головна",
     "gui.consoly.screen.button.tooltip.general": "Загальні налаштування",
     "gui.consoly.screen.button.theme": "Тема: %s]",
-    "gui.consoly.screen.button.theme.light": "світло",
-    "gui.consoly.screen.button.theme.dark": "темний",
-    "gui.consoly.screen.button.tooltip.theme": "Виберіть тему консолі"
+    "gui.consoly.screen.button.theme.dark": "Темний",
+    "gui.consoly.screen.button.theme.light": "Світло",
+    "gui.consoly.screen.button.tooltip.theme": "Виберіть тему консолі",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Почати",
+    "gui.consoly.screen.button.window.hide": "Приват",
+    "gui.consoly.screen.button.window.tooltip": "Приховати або показати вікно консолі",
+    "gui.consoly.screen.button.font": "Шрифт: %s",
+    "gui.consoly.screen.button.font.bold": "зрілі",
+    "gui.consoly.screen.button.font.default": "За замовчуванням",
+    "gui.consoly.screen.button.font.tooltip": "Виберіть шрифт консолі",
+    "gui.consoly.screen.button.style": "Стиль: %s",
+    "gui.consoly.screen.button.style.nimbus": "Німбус",
+    "gui.consoly.screen.button.style.default": "За замовчуванням",
+    "gui.consoly.screen.button.style.tooltip": "Виберіть стиль консолі"
 }

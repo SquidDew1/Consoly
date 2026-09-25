@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Done",
-    "gui.consoly.screen.text.title": "Consoly ayarları",
     "gui.consoly.screen.button.general": "General General General General General General General General General General General General",
-    "gui.consoly.screen.button.tooltip.general": "Genel ayarlar",
+    "gui.consoly.screen.button.tooltip.general": "Genel Ayarlar",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "ışık ışığı",
-    "gui.consoly.screen.button.theme.dark": "karanlık karanlık karanlık",
-    "gui.consoly.screen.button.tooltip.theme": "Konsolunuzun temasını seçin"
+    "gui.consoly.screen.button.theme.dark": "Dark Dark",
+    "gui.consoly.screen.button.theme.light": "Işık Işığı",
+    "gui.consoly.screen.button.tooltip.theme": "Konsolunuzun temasını seçin",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Show Show Show Show Show",
+    "gui.consoly.screen.button.window.hide": "Hide Hide Gizle",
+    "gui.consoly.screen.button.window.tooltip": "Gizle ya da Konsol penceresi göster",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "cesur cesur cesur cesur cesur",
+    "gui.consoly.screen.button.font.default": "varsayılan varsayılan varsayılan varsayılan varsayılan varsayılan",
+    "gui.consoly.screen.button.font.tooltip": "Konsol text font seçin",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "varsayılan varsayılan varsayılan varsayılan varsayılan varsayılan",
+    "gui.consoly.screen.button.style.tooltip": "Konsolunuzun stilini seçin"
 }

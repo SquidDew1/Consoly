@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "เสร็จแล้ว",
-    "gui.consoly.screen.text.title": "ตั้งค่า",
     "gui.consoly.screen.button.general": "ค่าทั่วไป",
     "gui.consoly.screen.button.tooltip.general": "ตั้งค่าทั่วไป",
     "gui.consoly.screen.button.theme": "Theme: %s",
+    "gui.consoly.screen.button.theme.dark": "เข้ม",
     "gui.consoly.screen.button.theme.light": "แสง",
-    "gui.consoly.screen.button.theme.dark": "มืด",
-    "gui.consoly.screen.button.tooltip.theme": "เลือกชุดตกแต่งของคอนโซลของคุณ"
+    "gui.consoly.screen.button.tooltip.theme": "เลือกชุดตกแต่งของคอนโซลของคุณ",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "แสดง",
+    "gui.consoly.screen.button.window.hide": "ซ่อน",
+    "gui.consoly.screen.button.window.tooltip": "ซ่อนหรือแสดงหน้าต่างคอนโซล",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "ตัวหนา",
+    "gui.consoly.screen.button.font.default": "ค่าปริยาย",
+    "gui.consoly.screen.button.font.tooltip": "เลือกแบบอักษรของคอนโซล",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "เลเยอร์ถัดไป",
+    "gui.consoly.screen.button.style.default": "ค่าปริยาย",
+    "gui.consoly.screen.button.style.tooltip": "เลือกรูปแบบคอนโซลของคุณ"
 }

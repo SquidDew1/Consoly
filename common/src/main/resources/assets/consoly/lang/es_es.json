@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Hecho",
-    "gui.consoly.screen.text.title": "Ajustes simultáneos",
     "gui.consoly.screen.button.general": "General",
     "gui.consoly.screen.button.tooltip.general": "Ajustes generales",
     "gui.consoly.screen.button.theme": "Tema: %s",
-    "gui.consoly.screen.button.theme.light": "luz",
-    "gui.consoly.screen.button.theme.dark": "oscuro.",
-    "gui.consoly.screen.button.tooltip.theme": "Elija el tema de su consola"
+    "gui.consoly.screen.button.theme.dark": "Oscuro",
+    "gui.consoly.screen.button.theme.light": "Luz",
+    "gui.consoly.screen.button.tooltip.theme": "Elija el tema de su consola",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Show",
+    "gui.consoly.screen.button.window.hide": "Oculto",
+    "gui.consoly.screen.button.window.tooltip": "Ocultar o mostrar la ventana Consola",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "negrita",
+    "gui.consoly.screen.button.font.default": "por defecto",
+    "gui.consoly.screen.button.font.tooltip": "Elija la fuente de texto Console",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "por defecto",
+    "gui.consoly.screen.button.style.tooltip": "Elija el estilo de su consola"
 }

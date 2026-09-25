@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Atlikta",
-    "gui.consoly.screen.text.title": "Comment",
     "gui.consoly.screen.button.general": "Bendrosios nuostatos",
     "gui.consoly.screen.button.tooltip.general": "Bendrieji nustatymai",
     "gui.consoly.screen.button.theme": "Tema: %s",
-    "gui.consoly.screen.button.theme.light": "lengvas",
-    "gui.consoly.screen.button.theme.dark": "tamsa",
-    "gui.consoly.screen.button.tooltip.theme": "Pasirinkite konsolės temą"
+    "gui.consoly.screen.button.theme.dark": "Tamsus",
+    "gui.consoly.screen.button.theme.light": "Šviesa",
+    "gui.consoly.screen.button.tooltip.theme": "Pasirinkite konsolės temą",
+    "gui.consoly.screen.window": "Konsolė %s",
+    "gui.consoly.screen.button.window.show": "Rodyti",
+    "gui.consoly.screen.button.window.hide": "Slėpti",
+    "gui.consoly.screen.button.window.tooltip": "Slėpti arba rodyti konsolės langą",
+    "gui.consoly.screen.button.font": "Šriftas: %s",
+    "gui.consoly.screen.button.font.bold": "pusjuodis",
+    "gui.consoly.screen.button.font.default": "numatytasis",
+    "gui.consoly.screen.button.font.tooltip": "Pasirinkite konsolės teksto šriftą",
+    "gui.consoly.screen.button.style": "Stilius: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "numatytasis",
+    "gui.consoly.screen.button.style.tooltip": "Pasirinkite konsolės stilių"
 }

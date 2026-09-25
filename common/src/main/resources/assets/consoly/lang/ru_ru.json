@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "Сделано",
-    "gui.consoly.screen.text.title": "Уравновешенные настройки",
     "gui.consoly.screen.button.general": "Генерал",
     "gui.consoly.screen.button.tooltip.general": "Общие настройки",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "свет",
     "gui.consoly.screen.button.theme.dark": "темный",
-    "gui.consoly.screen.button.tooltip.theme": "Выберите тему своей консоли"
+    "gui.consoly.screen.button.theme.light": "Свет",
+    "gui.consoly.screen.button.tooltip.theme": "Выберите тему своей консоли",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "Показать",
+    "gui.consoly.screen.button.window.hide": "прятаться",
+    "gui.consoly.screen.button.window.tooltip": "Скрыть или показать окно консоли",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "смелый",
+    "gui.consoly.screen.button.font.default": "по умолчанию",
+    "gui.consoly.screen.button.font.tooltip": "Выберите текстовый шрифт Console",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "нимбус",
+    "gui.consoly.screen.button.style.default": "по умолчанию",
+    "gui.consoly.screen.button.style.tooltip": "Выберите стиль своей консоли"
 }

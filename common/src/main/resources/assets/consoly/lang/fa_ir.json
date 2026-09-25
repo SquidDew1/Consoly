@@ -1,10 +1,21 @@
 {
     "gui.consoly.screen.button.done": "انجام کارها",
-    "gui.consoly.screen.text.title": "تنظیمات Consoly",
     "gui.consoly.screen.button.general": "ژنرال عمومی",
     "gui.consoly.screen.button.tooltip.general": "تنظیمات عمومی",
     "gui.consoly.screen.button.theme": "Theme: %s",
-    "gui.consoly.screen.button.theme.light": "نور نور",
     "gui.consoly.screen.button.theme.dark": "تاریکی تاریک",
-    "gui.consoly.screen.button.tooltip.theme": "موضوع کنسول خود را انتخاب کنید"
+    "gui.consoly.screen.button.theme.light": "نور نور",
+    "gui.consoly.screen.button.tooltip.theme": "موضوع کنسول خود را انتخاب کنید",
+    "gui.consoly.screen.window": "Console: %s",
+    "gui.consoly.screen.button.window.show": "نمایش Show",
+    "gui.consoly.screen.button.window.hide": "Hide",
+    "gui.consoly.screen.button.window.tooltip": "پنهان کردن یا نشان دادن پنجره کنسول",
+    "gui.consoly.screen.button.font": "Font: %s",
+    "gui.consoly.screen.button.font.bold": "جسورانه",
+    "gui.consoly.screen.button.font.default": "پیش فرض",
+    "gui.consoly.screen.button.font.tooltip": "فونت Console را انتخاب کنید",
+    "gui.consoly.screen.button.style": "Style: %s",
+    "gui.consoly.screen.button.style.nimbus": "nimbus",
+    "gui.consoly.screen.button.style.default": "پیش فرض",
+    "gui.consoly.screen.button.style.tooltip": "سبک کنسول خود را انتخاب کنید"
 }
