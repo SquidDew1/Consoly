@@ -8,11 +8,11 @@ import net.minecraft.client.renderer.RenderPipelines;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.Identifier;
 
-public class GuiUtils {
-
-    private static final Screen screen = Minecraft.getInstance().gui.screen();
+public class ScreenUtils {
 
     public static void drawBg(GuiGraphicsExtractor graphicsExtractor, int bgColor){
+
+        Screen screen = Minecraft.getInstance().gui.screen();
         if (screen != null){
             graphicsExtractor.fill(
                     0, 0,
@@ -36,11 +36,13 @@ public class GuiUtils {
         }
     }
     public static void drawTitle(GuiGraphicsExtractor graphicsExtractor, int textColor, boolean dropShadow){
+
+        Screen screen = Minecraft.getInstance().gui.screen();
         if (screen != null) {
             graphicsExtractor.text(
                         Minecraft.getInstance().font,
-                        Component.translatable("gui.consoly.screen.text.title"),
-                        (screen.width / 2) - (Minecraft.getInstance().font.width(Component.translatable("gui.consoly.screen.text.title")) / 2),
+                        Component.literal("Consoly"),
+                        (screen.width / 2) - (Minecraft.getInstance().font.width(Component.literal("Consoly")) / 2),
                         10,
                         textColor,
                         dropShadow
