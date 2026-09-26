@@ -1,6 +1,6 @@
 package me.squiddew.consoly.mixin;
 
-import me.squiddew.consoly.ConsoleWindow;
+import me.squiddew.consoly.console.ConsoleWindow;
 import me.squiddew.consoly.ConsolyOptions;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.main.GameConfig;
