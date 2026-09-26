@@ -1,4 +1,4 @@
-package me.squiddew.consoly;
+package me.squiddew.consoly.console;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.LogEvent;
