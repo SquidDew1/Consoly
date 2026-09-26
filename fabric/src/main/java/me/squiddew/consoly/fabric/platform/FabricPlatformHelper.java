@@ -1,11 +1,11 @@
 package me.squiddew.consoly.fabric.platform;
 
-import me.squiddew.consoly.services.PathHelper;
+import me.squiddew.consoly.services.PlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 import java.nio.file.Path;
 
-public class FabricPlatformHelper implements PathHelper {
+public class FabricPlatformHelper implements PlatformHelper {
 
     @Override
     public Path getConfigDir() {

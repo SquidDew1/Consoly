@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import me.squiddew.consoly.services.PathHelper;
+import me.squiddew.consoly.services.PlatformHelper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -75,7 +75,7 @@ public class ConsolyOptions {
     }
 
     private static Path getConfigPath(){
-        return PathHelper
+        return PlatformHelper
                 .getInstance()
                 .getConfigDir()
                 .resolve(FILE_NAME);
