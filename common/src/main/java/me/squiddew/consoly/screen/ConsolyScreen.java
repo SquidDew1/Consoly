@@ -1,13 +1,17 @@
 package me.squiddew.consoly.screen;
 
-import me.squiddew.consoly.ConsoleWindow;
+import com.mojang.blaze3d.Blaze3D;
+import me.squiddew.consoly.console.ConsoleWindow;
 import net.minecraft.client.gui.GuiGraphicsExtractor;
 import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.components.Tooltip;
+import net.minecraft.client.gui.screens.ConfirmLinkScreen;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
 import org.jspecify.annotations.NonNull;
 import me.squiddew.consoly.ConsolyOptions;
+
+import java.net.URI;
 
 public class ConsolyScreen extends Screen {
 
@@ -34,13 +38,75 @@ public class ConsolyScreen extends Screen {
                     page = 0;
                     this.rebuildWidgets();
                 }
-        ).bounds(5, 34, 70, 20)
+        ).bounds(5, y, 70, 20)
                 .tooltip(Tooltip.create(Component.translatable("gui.consoly.screen.button.tooltip.general")))
+                .build());
+
+        this.addRenderableWidget(Button.builder(
+                Component.literal("Links"),
+                _ -> {
+                    page = 1;
+                    this.rebuildWidgets();
+                }
+        ).bounds(5, y + 25, 70, 20)
+                .tooltip(Tooltip.create(Component.literal("Links")))
                 .build());
 
         switch (page){
             case 0 -> drawGeneral();
+            case 1 -> drawLinks();
         }
+    }
+
+    public void drawLinks(){
+        this.addRenderableWidget(Button.builder(
+                Component.literal("Modrinth"),
+                _ -> this.minecraft.gui.setScreen(new ConfirmLinkScreen(
+                        (modrinth) -> {
+                            if (modrinth){
+                                Blaze3D.openUri(URI.create("https://modrinth.com/project/consoly"));
+                            }
+                            this.minecraft.gui.setScreen(this);
+                        },
+                        URI.create("https://modrinth.com/project/consoly"),
+                        true
+                  ))
+        ).bounds((this.width / 2) - (y / 2), y, 100, 20)
+                .tooltip(Tooltip.create(Component.literal("Modrinth")))
+                .build());
+
+        this.addRenderableWidget(Button.builder(
+                        Component.literal("GitHub"),
+                        _ -> this.minecraft.gui.setScreen(new ConfirmLinkScreen(
+                                (modrinth) -> {
+                                    if (modrinth){
+                                        Blaze3D.openUri(URI.create("https://github.com/SquidDew1/Consoly"));
+                                    }
+                                    this.minecraft.gui.setScreen(this);
+                                },
+                                URI.create("https://github.com/SquidDew1/Consoly"),
+                                true
+                        ))
+                ).bounds((this.width / 2) - (y / 2), y + 20, 100, 20)
+                .tooltip(Tooltip.create(Component.literal("GitHub")))
+                .build());
+
+        this.addRenderableWidget(Button.builder(
+                        Component.literal("Issues"),
+                        _ -> this.minecraft.gui.setScreen(new ConfirmLinkScreen(
+                                (modrinth) -> {
+                                    if (modrinth){
+                                        Blaze3D.openUri(URI.create("https://github.com/SquidDew1/Consoly/issues"));
+                                    }
+                                    this.minecraft.gui.setScreen(this);
+                                },
+                                URI.create("https://github.com/SquidDew1/Consoly/issues"),
+                                true
+                        ))
+                ).bounds((this.width / 2) - (y / 2), y + 20 + 20, 100, 20)
+                .tooltip(Tooltip.create(Component.literal("Issues")))
+                .build());
+
     }
 
     public void drawGeneral(){
